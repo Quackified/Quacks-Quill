@@ -1,12 +1,12 @@
 {
   "/": [
-    "CS 312 - Mobile Application Development"
-  ],
-  "/CS 312 - Mobile Application Development": [
-    "Welcome to Mobile Application Development",
+    "CS 312 - Mobile Application Development",
     "Notes"
   ],
-  "/CS 312 - Mobile Application Development/Notes": [
+  "/CS 312 - Mobile Application Development": [
+    "Welcome to Mobile Application Development"
+  ],
+  "/Notes": [
     "History of Android",
     "Android Versions",
     "ART, Native C & CPP Libraries, HAL, Linux Kernel",
